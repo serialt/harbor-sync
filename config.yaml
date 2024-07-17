@@ -1,0 +1,11 @@
+log:
+  file: test.log
+  level: info
+harbor:
+  url: https://harbor.local.com
+  username: admin
+  password: xxxxxxxxxxxxxx
+dingRobot:
+  accessToken: cd316d9xxxxxxxxxxxxxx
+  secret: SECa87a39d5bxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+beforTime: 3h
